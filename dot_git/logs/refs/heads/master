@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 3a84b127f63d924ef0d65ca63d14132149c80215 ychupin <yahor_chupin@epam.com> 1417096175 +0000	commit (initial): first commit
+3a84b127f63d924ef0d65ca63d14132149c80215 a9d4e0a87f08f3b64edadbe21ddcaf1e631c4d93 ychupin <yahor_chupin@epam.com> 1417425692 +0000	merge test_branch: Fast-forward
+a9d4e0a87f08f3b64edadbe21ddcaf1e631c4d93 9edea84603c6a9694b2ad5b702a8cff369168b89 ychupin <yahor_chupin@epam.com> 1417425723 +0000	pull: Merge made by the 'recursive' strategy.
+9edea84603c6a9694b2ad5b702a8cff369168b89 f33cb593ff176a9a1a82dd1eec8b35b054c01a50 ychupin <yahor_chupin@epam.com> 1417427912 +0000	commit: afkjfaf
+f33cb593ff176a9a1a82dd1eec8b35b054c01a50 cc8b6e9608af5d9716c41f19112d3ddd0e9b11af ychupin <yahor_chupin@epam.com> 1417431837 +0000	merge test_branch: Merge made by the 'recursive' strategy.

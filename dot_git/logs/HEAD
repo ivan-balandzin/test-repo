@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 3a84b127f63d924ef0d65ca63d14132149c80215 ychupin <yahor_chupin@epam.com> 1417096175 +0000	commit (initial): first commit
+3a84b127f63d924ef0d65ca63d14132149c80215 3a84b127f63d924ef0d65ca63d14132149c80215 ychupin <yahor_chupin@epam.com> 1417165536 +0000	checkout: moving from master to test_branch
+3a84b127f63d924ef0d65ca63d14132149c80215 44b8bfd6fdf69d8eed4c090d37be0d77cc8eb037 ychupin <yahor_chupin@epam.com> 1417165667 +0000	commit: fjflsjmgf
+44b8bfd6fdf69d8eed4c090d37be0d77cc8eb037 5420722ebbb9615749a31ff08f487d8cf02c7e9e ychupin <yahor_chupin@epam.com> 1417165799 +0000	commit: amf;alf
+5420722ebbb9615749a31ff08f487d8cf02c7e9e 5420722ebbb9615749a31ff08f487d8cf02c7e9e ychupin <yahor_chupin@epam.com> 1417165814 +0000	checkout: moving from test_branch to test_branch
+5420722ebbb9615749a31ff08f487d8cf02c7e9e ccb3a1c46bd78a681317ebbd5b65f7793eb27f6a ychupin <yahor_chupin@epam.com> 1417165840 +0000	commit: fefefe
+ccb3a1c46bd78a681317ebbd5b65f7793eb27f6a 4e97b476952beb749d8c0f8357baa670b53d5bc9 ychupin <yahor_chupin@epam.com> 1417166048 +0000	commit: aklafkj
+4e97b476952beb749d8c0f8357baa670b53d5bc9 4e97b476952beb749d8c0f8357baa670b53d5bc9 ychupin <yahor_chupin@epam.com> 1417166114 +0000	checkout: moving from test_branch to test_branch
+4e97b476952beb749d8c0f8357baa670b53d5bc9 88e4df2af2c9fa2e54d2b4b06baac7e52f30a30b ychupin <yahor_chupin@epam.com> 1417166148 +0000	commit: something
+88e4df2af2c9fa2e54d2b4b06baac7e52f30a30b a9d4e0a87f08f3b64edadbe21ddcaf1e631c4d93 ychupin <yahor_chupin@epam.com> 1417425156 +0000	commit: something
+a9d4e0a87f08f3b64edadbe21ddcaf1e631c4d93 3a84b127f63d924ef0d65ca63d14132149c80215 ychupin <yahor_chupin@epam.com> 1417425689 +0000	checkout: moving from test_branch to master
+3a84b127f63d924ef0d65ca63d14132149c80215 a9d4e0a87f08f3b64edadbe21ddcaf1e631c4d93 ychupin <yahor_chupin@epam.com> 1417425692 +0000	merge test_branch: Fast-forward
+a9d4e0a87f08f3b64edadbe21ddcaf1e631c4d93 9edea84603c6a9694b2ad5b702a8cff369168b89 ychupin <yahor_chupin@epam.com> 1417425723 +0000	pull: Merge made by the 'recursive' strategy.
+9edea84603c6a9694b2ad5b702a8cff369168b89 a9d4e0a87f08f3b64edadbe21ddcaf1e631c4d93 ychupin <yahor_chupin@epam.com> 1417425877 +0000	checkout: moving from master to test_branch
+a9d4e0a87f08f3b64edadbe21ddcaf1e631c4d93 9edea84603c6a9694b2ad5b702a8cff369168b89 ychupin <yahor_chupin@epam.com> 1417425906 +0000	checkout: moving from test_branch to master
+9edea84603c6a9694b2ad5b702a8cff369168b89 f33cb593ff176a9a1a82dd1eec8b35b054c01a50 ychupin <yahor_chupin@epam.com> 1417427912 +0000	commit: afkjfaf
+f33cb593ff176a9a1a82dd1eec8b35b054c01a50 a9d4e0a87f08f3b64edadbe21ddcaf1e631c4d93 ychupin <yahor_chupin@epam.com> 1417427926 +0000	checkout: moving from master to test_branch
+a9d4e0a87f08f3b64edadbe21ddcaf1e631c4d93 a6db0548a4ce9acb3a847fb8f0e28e01eff5e462 ychupin <yahor_chupin@epam.com> 1417427941 +0000	commit: afkjfaf
+a6db0548a4ce9acb3a847fb8f0e28e01eff5e462 f33cb593ff176a9a1a82dd1eec8b35b054c01a50 ychupin <yahor_chupin@epam.com> 1417431834 +0000	checkout: moving from test_branch to master
+f33cb593ff176a9a1a82dd1eec8b35b054c01a50 cc8b6e9608af5d9716c41f19112d3ddd0e9b11af ychupin <yahor_chupin@epam.com> 1417431837 +0000	merge test_branch: Merge made by the 'recursive' strategy.
