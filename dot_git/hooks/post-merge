@@ -1,3 +1,0 @@
-#!/bin/sh
-
-curl -X POST http://ychupin:WZcy9lpX@54.229.155.127/job/Test-merge-post/build?delay=0sec
