@@ -13,4 +13,5 @@
             <dropTable tableName="changeRollback1"/>
         </rollback>
     </changeSet>
+
 </databaseChangeLog>
